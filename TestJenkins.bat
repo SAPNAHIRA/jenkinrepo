@@ -1,2 +1,2 @@
 cd E:\Download
-mkdir testjenkins1
+mkdir testjenkins2
